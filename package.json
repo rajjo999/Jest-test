@@ -1,0 +1,23 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Playground for Jest tests",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajjo999/Jest-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajjo999/Jest-test/issues"
+  },
+  "homepage": "https://github.com/rajjo999/Jest-test#readme"
+}
